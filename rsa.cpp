@@ -1,10 +1,3 @@
-/*
- * rsa.cpp
- *
- *  Created on: Mar 13, 2017
- *      Author: Viet
- */
-
 #include <iostream>
 #include <cstdlib>
 #include <string>
